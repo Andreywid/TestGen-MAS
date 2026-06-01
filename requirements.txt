@@ -1,0 +1,4 @@
+groq
+pytest
+pytest-cov
+python-dotenv
